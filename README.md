@@ -1,5 +1,5 @@
 # odin-recipes
-This website contains the recipes of popular foods during middle ages. It will guide users step by step to make amazing dishes.
+This website contains the recipes of some popular foods. It will guide users step by step to make these amazing dishes.
 
 Feature Details:
 
