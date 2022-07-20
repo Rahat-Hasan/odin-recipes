@@ -4,7 +4,7 @@ This website contains the recipes of some popular foods. It will guide users ste
 Feature Details:
 
 1. Homepage with links of popular recipes.
-2. Recipe pages with picture and step by step guide on how to make the foods
+2. Recipe pages with picture,nutrition facts and step by step guide on how to make the foods.
 
 Technologies used:
 
