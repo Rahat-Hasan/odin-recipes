@@ -1,12 +1,49 @@
-
+body{
+    background-color: #171717;
+}
 .title {
-    color: #a52a2a;
+    color: white;
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
+    
 }
 
 .title.main {
-    color: black;
+    color: #DA0037;
     font-size: 42px;
+    font-weight: 700;
+}
+
+.image-box {
+    width: 500px;
+    margin: 0 auto;
+    
+}
+.image {
+    width: 500px;
+    height: auto;
+    border-radius: 8px; 
+}
+
+.card {
+    width: 450px;
+    text-align: left;
+    background-color: #DA0037;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #EDEDED;
+
+}
+
+.overview {
+    text-align: center;
+}
+
+.bottom-links {
+    text-align: center;
+    
 }
