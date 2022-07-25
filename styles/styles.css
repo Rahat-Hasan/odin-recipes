@@ -48,3 +48,6 @@ body{
     text-align: center;
     
 }
+.direction label  {
+    font-weight: bold;
+}
