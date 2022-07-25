@@ -28,19 +28,20 @@ body{
 
 .card {
     width: 450px;
-    text-align: left;
+    text-align: justify;
     background-color: #DA0037;
     margin: 0 auto;
     border-radius: 8px;
-    padding: 10px;
+    padding: 15px;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: #EDEDED;
 
 }
 
 .overview {
     text-align: center;
+    
 }
 
 .bottom-links {
