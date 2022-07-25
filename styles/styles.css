@@ -1,0 +1,12 @@
+
+.title {
+    color: #a52a2a;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.title.main {
+    color: black;
+    font-size: 42px;
+}
